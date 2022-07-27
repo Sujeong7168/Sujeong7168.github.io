@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt"
 # Site Settings
 published                : true
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "Crystal's Coding Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "sujeong"
