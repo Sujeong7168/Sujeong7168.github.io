@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Machine-Learning"
-    url: Machine-Learning/
+  - title: "Study"
+    children:
+      -title: "Machine-Learning"
+      -url: Machine-Learning/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
