@@ -1,4 +1,4 @@
-docs:
+main:
   - title: "Study"
     children:
       -title: "Machine-Learning"
