@@ -1,4 +1,4 @@
-sidebar:
+sidemenu:
   - title: "Study"
     children:
       -title: "Machine-Learning"
