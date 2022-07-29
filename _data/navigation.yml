@@ -1,4 +1,4 @@
-docs:
+sidebar:
   - title: "Study"
     children:
       -title: "Machine-Learning"
